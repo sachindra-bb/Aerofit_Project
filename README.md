@@ -29,6 +29,7 @@ Education: Weak correlation — not a strong factor in product choice.
 Cluster Trends: Higher income + fitness + mileage = preference for KP781.
 
 **Business Insights/Recommendations**
+
 1.Target Specific Age Groups: 
 Promote KP281 to younger customers (18–30 years) as an affordable and beginner-friendly option. 
 Advertise KP481 and KP781 to middle-aged customers (30–50 years) who value advanced features and higher performance. 
