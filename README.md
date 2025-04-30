@@ -1,4 +1,4 @@
-▶️ [Click here to view the full analysis in Google Colab](https://colab.research.google.com/drive/1oqMrytAzMNYmsY8KBc6rp12Bef_recIp?usp=sharing)
+▶️ [Click here to view the full analysis in Google Colab]((https://colab.research.google.com/drive/1U3TT8Uyg3qC72JvXWZh0-Ke7ihqUq3tE?usp=sharing))
 
 **Problem Statement**
 Identify target customer profiles for each Aerofit treadmill model (KP281, KP481, KP781) by analyzing demographics, usage patterns, and purchase behavior — enabling smarter product recommendations and improved marketing focus.
