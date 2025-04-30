@@ -1,4 +1,4 @@
-▶️ [Click here to view the full analysis in Google Colab]((https://colab.research.google.com/drive/1U3TT8Uyg3qC72JvXWZh0-Ke7ihqUq3tE?usp=sharing))
+▶️ [Click here to view the full analysis in Google Colab](https://colab.research.google.com/drive/1oqMrytAzMNYmsY8KBc6rp12Bef_recIp?usp=sharing)
 
 **Problem Statement**
 Identify target customer profiles for each Aerofit treadmill model (KP281, KP481, KP781) by analyzing demographics, usage patterns, and purchase behavior — enabling smarter product recommendations and improved marketing focus.
@@ -10,7 +10,7 @@ Identify target customer profiles for each Aerofit treadmill model (KP281, KP481
 
 pandas, matplotlib, seaborn
 
-**Key Findings/Visualizations**
+**Key Findings**
 1. Customer Profile Ranges
 Age: Majority are between 30–50 years — the core target audience.
 Education: Most have 16+ years of education — generally well-educated.
@@ -29,7 +29,7 @@ Income ↔ Miles & Fitness: Positive correlation — higher income, higher fitne
 Education: Weak correlation — not a strong factor in product choice.
 Cluster Trends: Higher income + fitness + mileage = preference for KP781.
 
-**Business Insights/Recommendations**
+**Recommendations**
 
 1. Target Specific Age Groups: 
 Promote KP281 to younger customers (18–30 years) as an affordable and beginner-friendly option. 
