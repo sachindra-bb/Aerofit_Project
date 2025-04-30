@@ -30,24 +30,24 @@ Cluster Trends: Higher income + fitness + mileage = preference for KP781.
 
 **Business Insights/Recommendations**
 
-1.Target Specific Age Groups: 
+1. Target Specific Age Groups: 
 Promote KP281 to younger customers (18–30 years) as an affordable and beginner-friendly option. 
 Advertise KP481 and KP781 to middle-aged customers (30–50 years) who value advanced features and higher performance. 
-2.Gender-Specific Campaigns: 
+2. Gender-Specific Campaigns: 
 Design marketing campaigns highlighting KP781’s advanced features for male customers who prefer premium treadmills. 
 Showcase the affordability and versatility of KP281 to appeal to female customers. 
-3.Partnered Customers: 
+3. Partnered Customers: 
 Focus on promoting mid-range and premium models (KP481, KP781) to partnered individuals with household incomes, as they tend to invest in higher-quality products. 
-4.Leverage Fitness Levels: 
+4. Leverage Fitness Levels: 
 Encourage customers with moderate fitness levels (self-rated 3 or 4) to upgrade to treadmills with enhanced performance (KP481 or KP781). 
 Offer fitness packages with beginner treadmills (KP281) for new fitness enthusiasts. 
-5.Incentivize Longer Usage: 
+5. Incentivize Longer Usage: 
 Provide discounts or loyalty rewards for customers purchasing KP781, as they tend to have higher mileage expectations. 
-6.Regional/Income-Based Advertising: 
+6. Regional/Income-Based Advertising: 
 Focus KP781 advertisements in areas with higher income demographics. 
 Highlight KP281 as a budget-friendly option in lower-income regions or during sales events. 
-7.Seasonal Offers: 
+7. Seasonal Offers: 
 Introduce bundle deals or seasonal discounts on KP481 to increase its competitiveness in the mid-range market. 
-8.Customer Experience: 
+8. Customer Experience: 
 Include after-sales services like maintenance and fitness tracking apps for KP781 buyers to enhance their overall experience.
 
