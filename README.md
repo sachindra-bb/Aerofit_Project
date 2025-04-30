@@ -7,6 +7,7 @@ Identify target customer profiles for each Aerofit treadmill model (KP281, KP481
 (https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749)
 
 **Tools/Libraries**
+
 pandas, matplotlib, seaborn
 
 **Key Findings/Visualizations**
